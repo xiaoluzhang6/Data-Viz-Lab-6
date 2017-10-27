@@ -2,7 +2,7 @@
 <img width="936" alt="screen shot 2017-10-27 at 3 16 50 pm" src="https://user-images.githubusercontent.com/32026039/32127852-80c4f128-bb2e-11e7-9aa4-84ceabfca04f.png"><br>
 ## Discussion<br>
 When a recruiter wants to evaluate a candidate for a job, the possible 3 factors they look at are as below. The Dashboard I created takes them through this list. Although in the beginning, I hoped to put education/training lower down on the list, I found that university/program ranking was a good general guidance to start the cognitive walk-through:<br><br>
-*1. Education/Traning<br>
+>*1. Education/Traning<br>
 >How was the quality of education/training the potential candidate received?<br> 
 >This graph shows that there is a wide gap between the rankings of the two schools; although both are ranked closedly for the >MSIS program ranking, the gap widens when it comes to the overall ranking. The focus here is the trend, rather than specific >placement of the schools.<br><br>
 *2. Skills:<br>
