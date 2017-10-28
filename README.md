@@ -11,7 +11,12 @@ When a recruiter wants to evaluate a candidate for a job, the possible 3 factors
 *3. Work exprience/Practical Application<br><br>
 >My initial plan was to show prior work experience of student profiles for both programs. However this was not a very strong argument, as some people might have unrelated work exprience prior to coming into the program; a recruiter for a data analyst job would not be interested in how many years of customer service work experience a candidate might have. Instead, I try to suppliment the first graph of "quality of education/training" by showing that students at SCU has a wide range of options when it comes to Capstone; 2 out of 3 options at SCU focuses on the practical application of skills instead of just learning about it in a classroom setting. Again, the audience could select which Capstone option they were interested and see if they were offered at the two schools listed<br><br>
 
-Overall, the dashboard is trying to convey to the audience that the MSIS program at SCU is more superior in quality and will give students analytical and practical skills needed to have perform well in a real world setting.
+Overall, the dashboard is trying to convey to the audience that the MSIS program at SCU is more superior in quality and will give students analytical and practical skills needed to perform well in a real world setting.<br><br>
+
+*Improvements: <br>
+-additional schools with the same program to compare against each other will make the argument stronger<br>
+-although capstone projects is a good indication of how well the student applies his/her knowledge to a workplace situation, this might not be a good metric from the perspective of the recruiter; with no background information on the actual program at these schools, it might not be immediately apparent to the recruiter why having these capstone options are important
+-as stated above, more solid indication of student's actual work experience might be a better metric from the recruiter's point of view. 
 
 ## Sources:<br>
 see Jupyter Notebook File
