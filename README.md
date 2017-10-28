@@ -1,5 +1,5 @@
 # Data-Viz-Lab-6<br>
-<img width="936" alt="screen shot 2017-10-27 at 3 16 50 pm" src="https://user-images.githubusercontent.com/32026039/32127852-80c4f128-bb2e-11e7-9aa4-84ceabfca04f.png"><br>
+<img width="1023" alt="screen shot 2017-10-28 at 11 02 41 am" src="https://user-images.githubusercontent.com/32026039/32137188-d43b814a-bbcf-11e7-9a4b-7d72985d2e86.png"><br>
 Published Dashboard:__[Link](https://public.tableau.com/views/Lab6MSISintheBayAreaDashboard/Dashboard1?:embed=y&:display_count=yes&publish=yes)__<br> 
 ## Discussion<br>
 When a recruiter wants to evaluate a candidate for a job, the possible 3 factors they look at are as below. The Dashboard I created takes them through this list. Although in the beginning, I hoped to put education/training lower down on the list, I found that university/program ranking was a good general guidance to start the cognitive walk-through:<br><br>
